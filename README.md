@@ -95,7 +95,7 @@ LL, LR, RL, RR Rotation 과정을 통해</br>
 
 ### Insert 알고리즘
 삽입 알고리즘은 Ellis Horowitz , SAHNI , ANDERSON-FREED,(이석호 역)의 저서</br>
-『C로 쓴 자료구조론(Fundementals of Data Structure in C), p. 496 ~ p. 511</br>
+『C로 쓴 자료구조론(Fundementals of Data Structure in C)』, p. 496 ~ p. 511</br>
 를 참고하여 구현하였다.</br></br>
 
 AVL Tree의 Node는 Data 값 이외의 Tree의 균형 여부를 저장하는 Balance Factor라는 것을 가지게 된다.</br>
