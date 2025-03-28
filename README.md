@@ -229,7 +229,7 @@ Delete 알고리즘도 Insert와 유사하다.</br>
 출처 : https://www.guru99.com/avl-tree.html</br>
 
 <b>또한, Insert에선 Tree의 Balance Factor를 예상 가능하여 자식 트리의 높이를 구하는 알고리즘을 생략할 수 있었지만,</br>
-Delete 과정에서는 Node의 삭제 후 Balance Factor를 예상할 수 없기에, 직접 왼쪽 오른쪽 자식의 높이차를 직접 구해</br>
+Delete 과정에서는 Node의 삭제 후 Balance Factor를 예상할 수 없기에, 직접 왼쪽 오른쪽 자식의 높이를 직접 구해</br>
 Balance Factor를 구하는 알고리즘으로 필자는 작성했다.</b></br>
 
 먼저 트리의 높이를 구하는 알고리즘은 아래와 같다.</br>
